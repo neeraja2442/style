@@ -1,0 +1,57 @@
+body{
+	background-color:yellow;
+}
+	h3{
+	color:red;
+}
+button{
+	 background-color: green;
+	}
+	h2{
+		text-align: italic;
+		color: orange;
+	}
+	input{
+		border-style: groove;
+		
+	}
+	a{
+		background-color: hotpink;
+		padding: 14px;
+	}
+	ol{
+		list-style-type: lower-alpha;
+		text-align: center;
+	}
+	p{
+		text-align: center;
+		font-size: 100px;
+		font-family: verdana;
+	text-orientation: sideways;
+	}
+	h1{
+		margin-left: 35px;
+		background: repeat;
+		padding-right: 2px
+		color:blue; 
+	}
+	h1{
+		color: blue;
+		font-size: 60px;
+		font-style: italic;
+	}
+	.heading1{
+		background-color: green;
+	}
+	.globe{
+		background-color: red;
+	}
+	.fb{
+		background-color: cyan;
+	}
+
+
+	
+	
+
+
